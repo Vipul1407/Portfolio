@@ -1,0 +1,36 @@
+header {
+    border: 1px solid black;
+    background-color: #2bff00;
+    height: 100px;
+}
+
+#nam {
+    text-align: center;
+    justify-content: center;
+    font-weight: 1000;
+    font-size: larger;
+    margin-right: 800px;
+    margin-left: 20px;
+    font-style: italic;
+}
+
+#abc {
+    font-size: 2rem;
+}
+
+body {
+    background-color: #4def7e;
+}
+
+.head {
+    color: blue;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: larger;
+}
+
+.logo i {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+}
